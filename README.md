@@ -1,2 +1,2 @@
 # ilkwebsayfam
-Bir web sayfası oluşturmak ödevi
+Bir web sayfası oluşturmak ödevidir.
